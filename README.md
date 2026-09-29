@@ -2,6 +2,8 @@
 
 直接调用 Google Workspace REST API 的脚本集合（不经过 MCP），覆盖 Gmail / Google Drive / Google Calendar / Google Sheets / Google Docs 五个服务。可作为 Kimi Code 等 Agent 的 skill 使用，也可单独作为 CLI 工具使用。
 
+**[English README](README.en.md)**
+
 ## 特性
 
 - **零配置运行**：通过 `uv run --with ...` 自动拉起依赖，无需手动建虚拟环境
